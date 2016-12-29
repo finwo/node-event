@@ -1,0 +1,17 @@
+{
+  "name": "global-events",
+  "description": "Suckless events for node & the browser",
+  "main": "dist/global-events.js",
+  "authors": [
+    "Robin Bron <robin@finwo.nl>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/finwo/node-global-events",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
