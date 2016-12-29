@@ -1,3 +1,3 @@
 // Node
-var g = require('./global-events');
-module.exports = g.gevent;
+var g = require('./gsevent');
+module.exports = g.gsevent;
